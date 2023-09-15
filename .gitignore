@@ -1,0 +1,9 @@
+# standard gitignore for python projects
+__pycache__/
+*.pyc
+
+#ignore virtual env files
+.venv/
+SYNTHETIC/results
+
+
